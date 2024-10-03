@@ -1,4 +1,4 @@
-# FACADE PATTERN
+# Facade Pattern
 
 
 ## Simplified Hotel Management System
